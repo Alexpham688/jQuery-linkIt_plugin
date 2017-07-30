@@ -16,20 +16,19 @@
         {
             "name": "Alex Pham",
             "email": "Alexpham688@gmail.com",
-            "url": ""
+            "url": "https://github.com/Alexpham688/jQuery-linkIt_plugin"
         }
     ],
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+            "url": "https://github.com/Alexpham688/jQuery-linkIt_plugin/LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/jquery/jquery-color/issues",
-    "homepage": "https://github.com/jquery/jquery-color",
-    "docs": "https://github.com/jquery/jquery-color",
-    "download": "http://code.jquery.com/#color",
+    "homepage": "https://github.com/Alexpham688/jQuery-linkIt_plugin",
+    "docs": "https://github.com/Alexpham688/jQuery-linkIt_plugin",
     "dependencies": {
-        "jquery": ">=1.5"
+
+        "jquery": ">=1.9"
     }
 }
